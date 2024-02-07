@@ -5,7 +5,6 @@ The course will be using JupyterLab Notebooks to support statistical concepts fo
 
 Click on the BinderHub launch here for a cloud service that allows users to share reproducible and interactive computing environments from code repositories. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Statistcial-Methods-for-Engineering/Special-GitHub-Site-Part-6-ANOVA-and-Compression-Strength-Example/edit/main/README.md/HEAD)
 
 
 
